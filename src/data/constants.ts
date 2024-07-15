@@ -1,0 +1,1 @@
+export const desiredUrl = 'https://www.linkedin.com/jobs'
